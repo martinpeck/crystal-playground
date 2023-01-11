@@ -26,11 +26,11 @@ This repo includes:
 
 - The code examples from the [Getting Started section](https://crystal-lang.org/reference/1.7/getting_started/index.html) of the Crystal website are here..
 
-```
+``` bash
 .
 ├── LICENSE                     # a lovely MIT license file
 ├── README.md                   # the README.md that you're currently reading
-└── getting_started             # the examples from Getting Started on https://crystal-lang.org/
+└── getting_started             # the Getting Started examples
     ├── all_my_cli.cr
     ├── hello_goodbye.cr
     ├── hello_world.cr
@@ -42,6 +42,8 @@ This repo includes:
     ├── twist_and_shout.cr
     └── yellow_cli.cr
 ```
+
+For more information about any of these samples, go and checkput the official docs: https://crystal-lang.org/reference/1.7/getting_started/index.html
 
 # Notes and Comments
 
