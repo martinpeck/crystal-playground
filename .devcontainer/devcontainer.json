@@ -8,8 +8,10 @@
     },
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/crystal-asdf:2": {}
-	}
-
+	},
+    "extensions": [
+        "crystal-lang-tools.crystal-lang"
+    ]
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
