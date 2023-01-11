@@ -17,6 +17,7 @@ RUN apt-get update && apt-get install -y curl \
                                          libgmp-dev \
                                          libz-dev \
                                          libevent-dev \
+                                         libpcre3-dev \
                                          pkgconf \
                                          --no-install-recommends \
     && apt-get clean -y \
